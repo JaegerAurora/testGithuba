@@ -8,6 +8,10 @@ namespace test.Controllers
 {
     public class HomeController : Controller
     {
+        public int Dwa()
+        {
+            return 2;
+        }
         public ActionResult Index()
         {
             return View();

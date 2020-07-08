@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-
+/// <summary>
+/// Hi just checking how this works
+/// </summary>
 namespace test.Models
 {
     public class ExternalLoginConfirmationViewModel
